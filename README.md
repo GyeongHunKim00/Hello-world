@@ -1,2 +1,3 @@
 # Hello-world
-just practice how to make repository
+just practice various things
+This is quite fun and complicated.
